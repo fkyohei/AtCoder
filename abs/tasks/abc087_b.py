@@ -1,3 +1,5 @@
+# https://atcoder.jp/contests/abs/tasks/abc087_b
+
 A = int(input()) # 500円玉枚数
 B = int(input()) # 100円玉枚数
 C = int(input()) # 50円玉枚数

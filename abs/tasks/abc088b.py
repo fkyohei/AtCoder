@@ -1,3 +1,5 @@
+# https://atcoder.jp/contests/abs/tasks/abc088_b
+
 N = int(input())
 a_list = [int(_) for _ in input().split()]
 

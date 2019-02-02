@@ -1,3 +1,5 @@
+# https://atcoder.jp/contests/abs/tasks/abc083_b
+
 N, A, B = map(int, input().split())
 
 total = 0

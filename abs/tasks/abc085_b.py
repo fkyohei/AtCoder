@@ -1,3 +1,5 @@
+# https://atcoder.jp/contests/abs/tasks/abc085_b
+
 N = int(input())
 
 d_list = []
